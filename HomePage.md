@@ -1,5 +1,5 @@
 # Reem Asaad
-| Read Page Number | Read Page Link |
+| Read # |  Link |
 | ----------- | ----------- |
 | Read #1: Learning Markdown | [Click here](https://reem-asaad.github.io/reading-notes/LearningMarkdown) |
 | Read #2: The Coder's Computer | [Click here](https://reem-asaad.github.io/reading-notes/TheCodersComputer) |
